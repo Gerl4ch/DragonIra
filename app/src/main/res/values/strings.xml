@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DragonApp</string>
+    <string name="insira_seu_nome_de_usu_rio">Insira seu nome de Usuário</string>
+    <string name="insira_sua_senha">Insira sua senha</string>
+    <string name="n_o_tem_cadastro_clique_aqui">Não tem Cadastro? Clique aqui.</string>
+    <string name="entrar">Entrar</string>
+    <string name="sair">Sair</string>
+</resources>
